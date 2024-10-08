@@ -1,1 +1,3 @@
-
+import pyzbar as pb
+import cv2
+from PyPDF2 import PdfReader
